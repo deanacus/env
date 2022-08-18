@@ -1,10 +1,12 @@
 {
   "name": "@deanacus/env",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/deanacus/env",
   "author": "Dean Harris <dean@harris.tc> (https://deanacus.com/)",
   "license": "MIT",
