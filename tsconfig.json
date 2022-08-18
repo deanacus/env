@@ -1,0 +1,7 @@
+{
+  "extends": "@deanacus/tsconfig",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "declaration": true
+  }
+}
