@@ -22,5 +22,6 @@
   },
   "scripts": {
     "build": "tsc"
-  }
+  },
+  "prettier": "@deanacus/prettier-config"
 }
